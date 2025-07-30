@@ -17,16 +17,13 @@ Both Random Forest and XGBoost models are trained 25 times with randomized split
 
 SHAP values are averaged across trials, providing robust and stable feature importance estimates.
 
-Includes comparative metrics on model accuracy and interpretability consistency.
-
 trial_v/
 Summarizes the results of the 25-trial experiments in a concise, visualization-ready format.
 
 Focuses on SHAP-based feature importance comparisons across datasets and models.
 
-Contains aggregated bar plots, ranking tables, and side-by-side visuals that support presentation and reporting needs.
+Contains aggregated bar plots and ranking tables.
 
-Designed for communicating insights effectively in research posters or stakeholder reports.
 
 
 
