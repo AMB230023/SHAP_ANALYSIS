@@ -1,5 +1,18 @@
 Project Structure – README
-This repository is organized into three main folders, each serving a specific purpose in the SHAP-based predictive maintenance analysis:
+This repository is organized into three main folders and a PDF File, each serving a specific purpose in the SHAP-based predictive maintenance analysis:
+results/
+
+Contains a compiled PDF report showing the overall results for both XGBoost and Random Forest.
+
+Summarizes key findings, including:
+
+1-trial vs 25-trial SHAP stability
+
+Cross-dataset feature importance comparisons
+
+Operational and business implications
+
+Serves as a single reference document for stakeholders and poster presentations.
 
 notebooks/
 Contains the initial modeling and SHAP analysis for each dataset.
